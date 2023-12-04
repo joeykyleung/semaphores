@@ -1,0 +1,37 @@
+Producer 1 produced job 2
+Producer 1 produced job 8
+Producer 1 produced job 5
+Producer 1 produced job 2
+Producer 2 produced job 2
+Consumer 1 consumed job 2
+Producer 1 produced job 6
+---------- Producer 1 produced 5 jobs ----------
+Consumer 2 consumed job 2
+Producer 3 produced job 2
+Consumer 1 consumed job 8
+Producer 2 produced job 8
+Producer 2 produced job 2
+Consumer 2 consumed job 5
+Consumer 2 consumed job 2
+Producer 2 produced job 6
+Consumer 2 consumed job 6
+Producer 3 produced job 5
+Consumer 1 consumed job 2
+Producer 2 produced job 5
+---------- Producer 2 produced 5 jobs ----------
+Consumer 1 consumed job 8
+Producer 3 produced job 1
+Consumer 2 consumed job 2
+Producer 3 produced job 1
+Consumer 2 consumed job 6
+Producer 3 produced job 6
+---------- Producer 3 produced 5 jobs ----------
+Consumer 1 consumed job 5
+Consumer 2 consumed job 5
+Consumer 1 consumed job 1
+Consumer 1 consumed job 1
+Consumer 1 consumed job 6
+Consumer 2 gave up
+---------- Consumer 2 consumed 7 jobs ----------
+Consumer 1 gave up
+---------- Consumer 1 consumed 8 jobs ----------
